@@ -1,13 +1,12 @@
 #include "queue.h"
 
-#define TYPE int
+#define TYPE void
 #define Q_NOT_EXIST_SIZE -333
 #define COPY_ERROR_COUNTER -444
 
 #define INCREASE_IN 2
 #define DECREASE_IN 3
 
-// TODO - your code
 queue_t *create_queue(int capacity)
 {
     if (capacity == 0)

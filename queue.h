@@ -5,7 +5,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define TYPE int
+#define TYPE void
 
 /* Queue structure which holds all necessary data */
 typedef struct {
