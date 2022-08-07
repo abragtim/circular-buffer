@@ -31,3 +31,5 @@ get number of stored elements
 copy data from one queue to the new queue
 
     int copy_data(queue_t *queue, TYPE** from, TYPE** to);
+    
+P.S. Сompleted as part of the homework for the subject "BAB36PRGA - Programování v C" 23.04.2022
